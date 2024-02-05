@@ -1,0 +1,273 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    height: 70px;
+}
+.card-img{
+    position:relative;
+
+}
+.card-title1{
+    position: absolute;
+    top: 350px;
+}
+.card-text1{
+    position: absolute;
+    top: 375px;
+}
+.card-title2{
+    position: absolute;
+    top: 120px;
+}
+.card-text2{
+    position: absolute;
+    top: 145px;
+}
+.card-title3{
+    position: absolute;
+    top: 120px;
+}
+.card-text3{
+    position: absolute;
+    top: 145px;
+}
+.card-title4{
+    position: absolute;
+    top: 380px;
+    font-size: 20px;
+}
+.card-text4{
+    position: absolute;
+    top: 420px;
+    font-size: 30px;
+}
+body{
+overflow-x: hidden;
+}
+.myadvice{
+    height: 300px;
+}
+.card-title5{
+    position: absolute;
+    top: 100px;
+    left:600px;
+    font-size: 60px;
+    font-family: 'Kaushan Script', cursive;
+}
+.card-title55{
+    position: absolute;
+    top: 160px;
+    left:635px;
+    font-size: 35px;
+    font-weight: 700;
+    
+}
+.card-text5{
+    position: absolute;
+    text-align: center;
+    left:450px;
+  
+    top: 250px;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.card-text55{
+    position: absolute;
+    text-align: center;
+    left:620px;
+  
+    top: 380px;
+  }
+  .card-text55 button{
+   background-color:orange;
+   font-weight: bold;
+  
+  }
+  .start{
+    font-size: 50px;
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+
+  }
+  .card-text0{
+    font-size: larger;
+    font-weight: bold;
+  
+  }
+  p.card-text01{
+    font-size: 15px;
+  }
+  .card-img-top{
+    border-radius: 10px;
+  }
+  #section4{
+    background-color:#efefef ;
+  }
+  .card-text01{
+    font-size: 12px;
+   color: #adadad; 
+    
+  }
+  #section6{
+    background-color:#efefef ;}
+    #section8{
+background-color:#efefef ;}
+       
+.sec8{
+    font-weight: bold;
+}
+.r3 img{
+    border-radius: 10px;
+}
+.end{
+    font-family: sofia-pro,Sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.para p{
+    color: #444444d3;
+    font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+.para button{
+    background-color: orange;
+    justify-content: center;
+    margin-left: 300px;
+    
+}
+.r4{
+    background-color: transparent;
+    background-image: linear-gradient(180deg,#15569a 0,#1a75b0 100%);
+}
+.prefooter{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.prefooter1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+.li button{
+    background-color: orange;
+}
+.r4{
+    height: 300px;
+}
+.p{
+    margin-top: 140px;
+}
+li{
+    list-style-type: none;
+}
+i{
+    color: white;
+}
+.j p{
+    color: white;
+}
+.p p{
+    color: white;
+}
+footer{
+    margin-top: -19px;
+}
+.brighten img {
+  
+   
+    }
+    
+    .brighten img:hover {
+        opacity:15%;
+    }
+    .but:hover {
+        background-color:black;
+        color: white;
+      }
+    .button:hover {
+        background-color:black;
+        color: white;
+      }
+      .botton:hover {
+        background-color: rgb(0, 0, 0);
+        color: white;
+      }
+      .button1:hover {
+        background-color: rgb(0, 0, 0);
+        color: white;
+      }
+      
+  
+   
+
+    .card-img-top{-webkit-filter: brightness(50%); }
+    img:hover{-webkit-filter: brightness(100%); 
+        
+    }
+    .card{-webkit-filter: brightness(50%); }
+    .card:hover{-webkit-filter: brightness(100%); }
+
+    .card-text0:hover{
+       color: orange;
+    }
+  
+    .sec8:hover{
+        color: orange;
+     }
+     .navbar a:hover {
+     
+        color: orange; /* Text color on hover */
+    }
+    .navbar a {
+        
+        color: white; /* Text color on hover */
+    }
+    .dropdown-item a{
+        color: black;
+    }
+    .cardss{-webkit-filter: brightness(70%); }
+    .dropdown-menu{
+        color:white;
+    }
+    nav.navbar.container-fluid{
+        position: sticky;
+    }
+    
+
+    .custom-shape-divider-bottom-1707082407 {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        overflow: hidden;
+        line-height: 0;
+        transform: rotate(180deg);
+    }
+    
+    .custom-shape-divider-bottom-1707082407 svg {
+        position: relative;
+        display: block;
+        width: calc(127% + 1.3px);
+        height: 156px;
+    }
+    
+    .custom-shape-divider-bottom-1707082407 .shape-fill {
+        fill: #FFFFFF;
+    }
+      
+            
+
+        
+     
+     
+    
+      
+      
+
+
+ 
+ 
